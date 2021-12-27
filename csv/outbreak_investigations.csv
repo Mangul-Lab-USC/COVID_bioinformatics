@@ -1,0 +1,52 @@
+Location,Date of publication,Date of sample collection ,Date,Number of genomes sequenced by country/region,Total number of genomes used for analysis (combined with publicly available data),Phylogeny Method,Citation
+"Guangdong Province (China)
+ ",April 30th 2020,"January 9th- January 31th, 2020; February 5th, 2020, February 10-12th, 2020",02/12/2020,53,250,-Maximum likelihood phylogeny ,2
+Northern France,"April 29th, 2020",December 2019,12/30/2019,97,438,-Maximum likelihood phylogeny ,52
+Connecticut (United States),"May 28th, 2020","March 14th, 2020",03/14/2020,9,168,"-Maximum likelihood phylogeny 
+-Clade-defining nucleotide substitution",51
+"Victoria, Australia","September 1st, 2020","January 6th, 2020 - April 14th, 2020",04/14/2020,903,903,"-Maximum likelihood phylogeny 
+-Maximum clade credibility tree
+-Bayesian phylodynamic analysis",139
+Iceland,"June 11th, 2020","March 31st, 2020 - April 1st, 2020",04/01/2020,643,1547,"-Median-joining haplotype network 
+ ",118
+Israel,"May 22nd, 2020","March 17th, 2020 - April 22, 2020",04/22/2020,212,212,"-Maximum likelihood phylogeny 
+-Phylogeographic analysis",53
+Northern California (United States),"July 31st, 2020","January 29th, 2020 - March 20th, 2020",03/31/2020,36,789,-Maximum likelihood phylogeny ,138
+East of England (United Kingdom),"July 14th, 2020","March 13th, 2020 - April 25th, 2020 ",04/25/2020,747,747,-Maximum likelihood phylogeny ,131
+Aotearoa (New Zealand),"August 20th, 2020","February 26th, 2020 - May 22, 2020",05/22/2020,649,649,"-Maximum likelihood time-scaled phylogeny
+-Maximum clade credibility tree ",140
+"Multi-country 
+Australia
+India
+United Kingdom
+China
+United States","August 10th, 2020","May 27th, 2020",05/27/2020,2350,18168,"-Maximum likelihood phylogeny   
+-Haplotype networks",141
+Netherlands,"July 16th, 2020","February 25th -28th, 2020; March 1st - 11th, 2020",03/11/2020,189,"Combined with all available full-length SARS-CoV-2 genomes from GISAID as of March 22nd, 2020","-Maximum likelihood phylogeny 
+-Bayesian phylogeny 
+-Maximum clade credibility tree",142
+Japanese travelers returning from Nile River Cruise in Egypt,"June 5th, 2020","March 5th - 15th, 2020",03/15/2020,10,"Combined with all available full-length SARS-CoV-2 genomes from GISAID as of March 10th, 2020",-Haplotype networks,143
+Morocco,"June 25th, 2020","June 7th, 2020",06/07/2020,22,40390,"-Maximum likelihood phylogeny 
+-Time resolved tree",59
+Global,"April 28th, 2020","March 4th, 2020",03/04/2020,160,413,-Phylogenetic network analysis,119
+Australia,"July 9th, 2020","January 21st, 2020 - March 28th, 2020",03/28/2020,209,2194,"-Genomic clustering 
+-Maximum likelihood phylogeny ",144
+Brazil,"July 23rd, 2020","March 5th, 2020 - April 30th, 2020 ",04/30/2020,427,1182,"-Maximum likelihood and molecular clock phylogenies
+ 
+-Time-resolved maximum clade credibility phylogeny",145
+Malaysia ,"August 27th, 2020",February - April 2020,04/30/2020,58,108,-Maximum likelihood phylogeny ,147
+Washington (United States),"April 16th, 2020","February 20th, 2020 - March 15th, 2020",03/15/2020,385,453,-Maximum likelihood phylogeny ,148
+"Los Angeles, California (United States) ","September 18th, 2020","February 21st, 2020 - June 28th, 2020 ",06/28/2020,142,142,-Maximum parsimony phylogeny,149
+"Houston, Texas (United States) ","September 29th, 2020","March 6th, 2020 - August 7th, 2020 (Houston) and August 19th, 2020 (Public)",08/19/2020,5085,5085,-Maximum likelihood phylogeny ,150
+"Baltimore, Maryland (United States)","August 23rd, 2020","March 11st - 31st, 2020",03/31/2020,114,114,-Maximum likelihood phylogeny ,54
+"Boston, Massachusetts (United States)","August 25th, 2020","January 29th, 2020 - April 18th 2020
+March 4th, 2020 - May 9th, 2020 ",05/09/2020,772,844,MCMC Phylodynamics,151
+Norfolk (United Kingdom),"September 30th, 2020",March 2020 - August 2020 ,08/31/2020,1035,1035,Maximum likelihood phylogeny,152
+Washington (United States),"September 30th, 2020",February 2020 - July 2020,07/31/2020,4023,10051,MCMC Phylodynamics,153
+Arizona (United States),"September 4th, 2020","March 5th, 2020 - April 2nd, 2020 ",04/02/2020,79,292,"-Maximum likelihood phylogeny 
+-Bayesian phylogeny
+-Maximum clade credibility phylogeny
+-MCMC Phylodynamics",56
+Colombia,"September 6th, 2020","January 1st, 2020 - April 19th, 2020 ",04/19/2020,165,1626,PANGOLIN (Phylogenetic Assignment of Named Global Outbreak LINeages),154
+Karnataka (India),"July 24th, 2020","March 5th 2020 - May 21st, 2020 ",05/21/2020,47,47,Maximum likelihood phylogeny,155
+Russia,"July 17th, 2020",March 11th 2020 - April 23rd 2020,04/23/2020,135,19834,Maximum likelihood phylogeny,156

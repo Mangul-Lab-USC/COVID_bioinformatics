@@ -1,0 +1,29 @@
+Coutry,Date_publication,Date_sample_collection,Date,n_samples,Total number of samples used for analysis (combined with publicly available data),Method of PCR Analysis,Citation
+Federal State of North Rhine-Westphalia (Germany),"January 20th, 2020","April 8th, 2020",04/08/20,9,9,One-Step RT-qPCR,157
+"Rome and Milan
+(Italy)","September 20th, 2020","February 3rd, 2020 - April 2nd, 2020",04/02/20,12,12,"RT-PCR Analysis:ORFlab, Novel, nested RT-PCR targeting spike region
+ RT-qPCR targeting RdRP gene",158
+Australia,"August 1st, 2020","February 24th, March 20th, March 26th, March 28-30th, April 4th, ",04/04/20,3,3,RT-qPCR,83
+"Paris
+(France)","May 6th, 2020",March 2020,03/31/20,3,3,RT-qPCR,77
+The Netherlands,"May 20th, 2020","Feburary, March 2020",03/31/20,4,4,RT-qPCR,82
+"New Haven
+(Connecticut)","September 18th, 2020","March 19,2020 - June 1, 2020 ",06/01/20,73,73,qRT-PCR,71
+Massachusetts ,"April 7th, 2020","January 8, 2020
+January 11, 2020
+March 18-25, 2020",05/25/20,12,12,RT-qPCR,78
+"Istanbul
+(Turkey)","May 6th, 2020","April 21-25, 2020 ",04/25/20,9,9,RT-qPCR,159
+Valencia (Spain),"April 29th, 2020","February 12- April 14th, 2020",04/14/20,15,15,RT-qPCR,76
+"Wuhan
+(China)
+*used wastewater in septic tanks in hospitals","May 14th, 2020","February 26th, 2020
+March 1st, 2020
+March 10th, 2020",03/10/20,3,3,RT-qPCR,161
+Santa Catalina (Brazil) ,"June 29th, 2020","October 30th, 2019 - March 4th, 2020 ",03/04/20,6,6,RT-qPCR,162
+Japan,"June 18th, 2020","March 17th, 2020 - May 7th, 2020 ",05/07/20,13,13,"qPCR 
+Nested PCR",163
+Bozeman (Montana),"September 22nd, 2020","March 30, 2020 - June 12, 2020",06/12/20,17,17,RT-PCR,165
+Czech Republic,"July 30th, 2020",April - June 2020 ,06/30/20,112,112,RT-qPCR,166
+"Santa Clara County 
+(California)","September 15th, 2020","March 16th - May 31, June 2 - July 12 ",07/12/20,89,89,RT-qPCR,167
